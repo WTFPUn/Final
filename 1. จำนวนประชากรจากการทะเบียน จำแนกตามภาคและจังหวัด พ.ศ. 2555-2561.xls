@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table id="cphForm_rgvPopulation_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+		<col style="width:100px" />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col" id="cphForm_rgvPopulation_ctl00Region2_MultiHeader2" rowspan="2">ภาค</th><th scope="col" id="cphForm_rgvPopulation_ctl00Province3_MultiHeader3" rowspan="2">จังหวัด</th><th scope="col" colspan="9">จำนวนประชากร (คน)</th>
+		</tr><tr>
+			<th scope="col" id="cphForm_rgvPopulation_ctl0025550_MultiHeader4" rowspan="1">2555</th><th scope="col" id="cphForm_rgvPopulation_ctl0025561_MultiHeader5" rowspan="1">2556</th><th scope="col" id="cphForm_rgvPopulation_ctl0025572_MultiHeader6" rowspan="1">2557</th><th scope="col" id="cphForm_rgvPopulation_ctl0025583_MultiHeader7" rowspan="1">2558</th><th scope="col" id="cphForm_rgvPopulation_ctl0025594_MultiHeader8" rowspan="1">2559</th><th scope="col" id="cphForm_rgvPopulation_ctl0025605_MultiHeader9" rowspan="1">2560</th><th scope="col" id="cphForm_rgvPopulation_ctl0025616_MultiHeader10" rowspan="1">2561</th><th scope="col" id="cphForm_rgvPopulation_ctl0025627_MultiHeader11" rowspan="1">2562</th><th scope="col" id="cphForm_rgvPopulation_ctl0025638_MultiHeader12" rowspan="1">2563</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>ทั่วราชอาณาจักร</td><td style="font-weight:bold;">ทั่วราชอาณาจักร</td><td style="mso-number-format:0;">64,456,695</td><td style="mso-number-format:0;">64,785,909</td><td style="mso-number-format:0;">65,124,716</td><td style="mso-number-format:0;">65,729,098</td><td style="mso-number-format:0;">65,931,550</td><td style="mso-number-format:0;">66,188,503</td><td style="mso-number-format:0;">66,413,979</td><td style="mso-number-format:0;">66,558,935</td><td style="mso-number-format:0;">66,186,727</td>
+	</tr><tr>
+		<td>กรุงเทพมหานคร</td><td style="font-weight:bold;">กรุงเทพมหานคร</td><td style="mso-number-format:0;">5,673,560</td><td style="mso-number-format:0;">5,686,252</td><td style="mso-number-format:0;">5,692,284</td><td style="mso-number-format:0;">5,696,409</td><td style="mso-number-format:0;">5,686,646</td><td style="mso-number-format:0;">5,682,415</td><td style="mso-number-format:0;">5,676,648</td><td style="mso-number-format:0;">5,666,264</td><td style="mso-number-format:0;">5,588,222</td>
+	</tr><tr>
+		<td rowspan="26">ภาคกลาง</td><td style="font-weight:bold;">ภาคกลาง</td><td style="mso-number-format:0;">16,222,892</td><td style="mso-number-format:0;">16,366,870</td><td style="mso-number-format:0;">16,532,023</td><td style="mso-number-format:0;">16,753,526</td><td style="mso-number-format:0;">16,879,244</td><td style="mso-number-format:0;">17,018,869</td><td style="mso-number-format:0;">17,151,984</td><td style="mso-number-format:0;">17,265,094</td><td style="mso-number-format:0;">17,255,105</td>
+	</tr><tr>
+		<td>&emsp;สมุทรปราการ</td><td style="mso-number-format:0;">1,223,302</td><td style="mso-number-format:0;">1,241,610</td><td style="mso-number-format:0;">1,261,530</td><td style="mso-number-format:0;">1,279,310</td><td style="mso-number-format:0;">1,293,553</td><td style="mso-number-format:0;">1,310,766</td><td style="mso-number-format:0;">1,326,608</td><td style="mso-number-format:0;">1,344,875</td><td style="mso-number-format:0;">1,351,479</td>
+	</tr><tr>
+		<td>&emsp;นนทบุรี</td><td style="mso-number-format:0;">1,141,673</td><td style="mso-number-format:0;">1,156,271</td><td style="mso-number-format:0;">1,173,870</td><td style="mso-number-format:0;">1,193,711</td><td style="mso-number-format:0;">1,211,924</td><td style="mso-number-format:0;">1,229,735</td><td style="mso-number-format:0;">1,246,295</td><td style="mso-number-format:0;">1,265,387</td><td style="mso-number-format:0;">1,276,745</td>
+	</tr><tr>
+		<td>&emsp;ปทุมธานี</td><td style="mso-number-format:0;">1,033,837</td><td style="mso-number-format:0;">1,053,158</td><td style="mso-number-format:0;">1,074,058</td><td style="mso-number-format:0;">1,094,249</td><td style="mso-number-format:0;">1,111,376</td><td style="mso-number-format:0;">1,129,115</td><td style="mso-number-format:0;">1,146,092</td><td style="mso-number-format:0;">1,163,604</td><td style="mso-number-format:0;">1,176,412</td>
+	</tr><tr>
+		<td>&emsp;พระนครศรีอยุธยา</td><td style="mso-number-format:0;">793,509</td><td style="mso-number-format:0;">797,970</td><td style="mso-number-format:0;">803,599</td><td style="mso-number-format:0;">808,360</td><td style="mso-number-format:0;">810,320</td><td style="mso-number-format:0;">813,852</td><td style="mso-number-format:0;">817,441</td><td style="mso-number-format:0;">820,188</td><td style="mso-number-format:0;">819,088</td>
+	</tr><tr>
+		<td>&emsp;อ่างทอง</td><td style="mso-number-format:0;">283,882</td><td style="mso-number-format:0;">283,732</td><td style="mso-number-format:0;">283,568</td><td style="mso-number-format:0;">283,173</td><td style="mso-number-format:0;">282,404</td><td style="mso-number-format:0;">281,187</td><td style="mso-number-format:0;">280,840</td><td style="mso-number-format:0;">279,654</td><td style="mso-number-format:0;">276,584</td>
+	</tr><tr>
+		<td>&emsp;ลพบุรี</td><td style="mso-number-format:0;">758,059</td><td style="mso-number-format:0;">757,970</td><td style="mso-number-format:0;">758,406</td><td style="mso-number-format:0;">758,655</td><td style="mso-number-format:0;">757,321</td><td style="mso-number-format:0;">757,273</td><td style="mso-number-format:0;">758,733</td><td style="mso-number-format:0;">755,556</td><td style="mso-number-format:0;">742,928</td>
+	</tr><tr>
+		<td>&emsp;สิงห์บุรี</td><td style="mso-number-format:0;">213,216</td><td style="mso-number-format:0;">212,690</td><td style="mso-number-format:0;">212,158</td><td style="mso-number-format:0;">211,426</td><td style="mso-number-format:0;">210,588</td><td style="mso-number-format:0;">210,088</td><td style="mso-number-format:0;">209,377</td><td style="mso-number-format:0;">208,446</td><td style="mso-number-format:0;">205,898</td>
+	</tr><tr>
+		<td>&emsp;ชัยนาท</td><td style="mso-number-format:0;">333,172</td><td style="mso-number-format:0;">332,769</td><td style="mso-number-format:0;">332,283</td><td style="mso-number-format:0;">331,655</td><td style="mso-number-format:0;">330,431</td><td style="mso-number-format:0;">329,722</td><td style="mso-number-format:0;">328,263</td><td style="mso-number-format:0;">326,611</td><td style="mso-number-format:0;">322,477</td>
+	</tr><tr>
+		<td>&emsp;สระบุรี</td><td style="mso-number-format:0;">625,689</td><td style="mso-number-format:0;">629,216</td><td style="mso-number-format:0;">633,460</td><td style="mso-number-format:0;">637,673</td><td style="mso-number-format:0;">640,065</td><td style="mso-number-format:0;">642,040</td><td style="mso-number-format:0;">645,024</td><td style="mso-number-format:0;">645,911</td><td style="mso-number-format:0;">643,828</td>
+	</tr><tr>
+		<td>&emsp;ชลบุรี</td><td style="mso-number-format:0;">1,364,002</td><td style="mso-number-format:0;">1,390,354</td><td style="mso-number-format:0;">1,421,425</td><td style="mso-number-format:0;">1,455,039</td><td style="mso-number-format:0;">1,483,049</td><td style="mso-number-format:0;">1,509,125</td><td style="mso-number-format:0;">1,535,445</td><td style="mso-number-format:0;">1,558,301</td><td style="mso-number-format:0;">1,566,885</td>
+	</tr><tr>
+		<td>&emsp;ระยอง</td><td style="mso-number-format:0;">649,275</td><td style="mso-number-format:0;">661,220</td><td style="mso-number-format:0;">674,393</td><td style="mso-number-format:0;">688,999</td><td style="mso-number-format:0;">700,223</td><td style="mso-number-format:0;">711,236</td><td style="mso-number-format:0;">723,316</td><td style="mso-number-format:0;">734,753</td><td style="mso-number-format:0;">741,524</td>
+	</tr><tr>
+		<td>&emsp;จันทบุรี</td><td style="mso-number-format:0;">521,812</td><td style="mso-number-format:0;">524,260</td><td style="mso-number-format:0;">527,350</td><td style="mso-number-format:0;">531,037</td><td style="mso-number-format:0;">532,466</td><td style="mso-number-format:0;">534,459</td><td style="mso-number-format:0;">536,496</td><td style="mso-number-format:0;">537,698</td><td style="mso-number-format:0;">535,559</td>
+	</tr><tr>
+		<td>&emsp;ตราด</td><td style="mso-number-format:0;">222,855</td><td style="mso-number-format:0;">224,010</td><td style="mso-number-format:0;">224,730</td><td style="mso-number-format:0;">229,435</td><td style="mso-number-format:0;">229,437</td><td style="mso-number-format:0;">229,649</td><td style="mso-number-format:0;">229,914</td><td style="mso-number-format:0;">229,958</td><td style="mso-number-format:0;">228,536</td>
+	</tr><tr>
+		<td>&emsp;ฉะเชิงเทรา</td><td style="mso-number-format:0;">685,721</td><td style="mso-number-format:0;">690,226</td><td style="mso-number-format:0;">695,478</td><td style="mso-number-format:0;">700,902</td><td style="mso-number-format:0;">704,399</td><td style="mso-number-format:0;">709,889</td><td style="mso-number-format:0;">715,009</td><td style="mso-number-format:0;">720,113</td><td style="mso-number-format:0;">720,718</td>
+	</tr><tr>
+		<td>&emsp;ปราจีนบุรี</td><td style="mso-number-format:0;">473,770</td><td style="mso-number-format:0;">476,167</td><td style="mso-number-format:0;">479,314</td><td style="mso-number-format:0;">482,195</td><td style="mso-number-format:0;">484,829</td><td style="mso-number-format:0;">487,544</td><td style="mso-number-format:0;">491,640</td><td style="mso-number-format:0;">494,680</td><td style="mso-number-format:0;">493,670</td>
+	</tr><tr>
+		<td>&emsp;นครนายก</td><td style="mso-number-format:0;">255,174</td><td style="mso-number-format:0;">256,085</td><td style="mso-number-format:0;">257,300</td><td style="mso-number-format:0;">258,577</td><td style="mso-number-format:0;">258,358</td><td style="mso-number-format:0;">259,342</td><td style="mso-number-format:0;">260,093</td><td style="mso-number-format:0;">260,751</td><td style="mso-number-format:0;">260,081</td>
+	</tr><tr>
+		<td>&emsp;สระแก้ว</td><td style="mso-number-format:0;">548,342</td><td style="mso-number-format:0;">550,937</td><td style="mso-number-format:0;">552,187</td><td style="mso-number-format:0;">556,922</td><td style="mso-number-format:0;">559,017</td><td style="mso-number-format:0;">561,938</td><td style="mso-number-format:0;">564,092</td><td style="mso-number-format:0;">566,303</td><td style="mso-number-format:0;">560,925</td>
+	</tr><tr>
+		<td>&emsp;ราชบุรี</td><td style="mso-number-format:0;">846,631</td><td style="mso-number-format:0;">850,162</td><td style="mso-number-format:0;">853,217</td><td style="mso-number-format:0;">867,883</td><td style="mso-number-format:0;">869,823</td><td style="mso-number-format:0;">871,714</td><td style="mso-number-format:0;">873,518</td><td style="mso-number-format:0;">873,101</td><td style="mso-number-format:0;">869,313</td>
+	</tr><tr>
+		<td>&emsp;กาญจนบุรี</td><td style="mso-number-format:0;">838,269</td><td style="mso-number-format:0;">842,882</td><td style="mso-number-format:0;">848,198</td><td style="mso-number-format:0;">882,146</td><td style="mso-number-format:0;">885,112</td><td style="mso-number-format:0;">887,979</td><td style="mso-number-format:0;">893,151</td><td style="mso-number-format:0;">895,525</td><td style="mso-number-format:0;">891,976</td>
+	</tr><tr>
+		<td>&emsp;สุพรรณบุรี</td><td style="mso-number-format:0;">847,308</td><td style="mso-number-format:0;">848,066</td><td style="mso-number-format:0;">849,053</td><td style="mso-number-format:0;">849,699</td><td style="mso-number-format:0;">848,567</td><td style="mso-number-format:0;">852,003</td><td style="mso-number-format:0;">848,720</td><td style="mso-number-format:0;">846,334</td><td style="mso-number-format:0;">838,628</td>
+	</tr><tr>
+		<td>&emsp;นครปฐม</td><td style="mso-number-format:0;">874,616</td><td style="mso-number-format:0;">882,184</td><td style="mso-number-format:0;">891,071</td><td style="mso-number-format:0;">899,342</td><td style="mso-number-format:0;">905,008</td><td style="mso-number-format:0;">911,492</td><td style="mso-number-format:0;">917,053</td><td style="mso-number-format:0;">920,030</td><td style="mso-number-format:0;">920,729</td>
+	</tr><tr>
+		<td>&emsp;สมุทรสาคร</td><td style="mso-number-format:0;">508,812</td><td style="mso-number-format:0;">519,457</td><td style="mso-number-format:0;">531,887</td><td style="mso-number-format:0;">545,454</td><td style="mso-number-format:0;">556,719</td><td style="mso-number-format:0;">568,465</td><td style="mso-number-format:0;">577,964</td><td style="mso-number-format:0;">584,703</td><td style="mso-number-format:0;">586,199</td>
+	</tr><tr>
+		<td>&emsp;สมุทรสงคราม</td><td style="mso-number-format:0;">194,042</td><td style="mso-number-format:0;">194,116</td><td style="mso-number-format:0;">194,189</td><td style="mso-number-format:0;">194,376</td><td style="mso-number-format:0;">194,069</td><td style="mso-number-format:0;">193,902</td><td style="mso-number-format:0;">193,791</td><td style="mso-number-format:0;">193,305</td><td style="mso-number-format:0;">192,052</td>
+	</tr><tr>
+		<td>&emsp;เพชรบุรี</td><td style="mso-number-format:0;">468,874</td><td style="mso-number-format:0;">471,087</td><td style="mso-number-format:0;">474,192</td><td style="mso-number-format:0;">478,589</td><td style="mso-number-format:0;">480,652</td><td style="mso-number-format:0;">482,375</td><td style="mso-number-format:0;">484,294</td><td style="mso-number-format:0;">485,191</td><td style="mso-number-format:0;">482,193</td>
+	</tr><tr>
+		<td>&emsp;ประจวบคีรีขันธ์</td><td style="mso-number-format:0;">517,050</td><td style="mso-number-format:0;">520,271</td><td style="mso-number-format:0;">525,107</td><td style="mso-number-format:0;">534,719</td><td style="mso-number-format:0;">539,534</td><td style="mso-number-format:0;">543,979</td><td style="mso-number-format:0;">548,815</td><td style="mso-number-format:0;">554,116</td><td style="mso-number-format:0;">550,678</td>
+	</tr><tr>
+		<td rowspan="18">ภาคเหนือ</td><td style="font-weight:bold;">ภาคเหนือ</td><td style="mso-number-format:0;">11,802,566</td><td style="mso-number-format:0;">11,825,955</td><td style="mso-number-format:0;">11,846,651</td><td style="mso-number-format:0;">12,072,421</td><td style="mso-number-format:0;">12,079,106</td><td style="mso-number-format:0;">12,098,164</td><td style="mso-number-format:0;">12,115,915</td><td style="mso-number-format:0;">12,119,572</td><td style="mso-number-format:0;">12,027,271</td>
+	</tr><tr>
+		<td>&emsp;เชียงใหม่</td><td style="mso-number-format:0;">1,655,642</td><td style="mso-number-format:0;">1,666,888</td><td style="mso-number-format:0;">1,678,284</td><td style="mso-number-format:0;">1,728,242</td><td style="mso-number-format:0;">1,735,762</td><td style="mso-number-format:0;">1,746,840</td><td style="mso-number-format:0;">1,763,742</td><td style="mso-number-format:0;">1,779,254</td><td style="mso-number-format:0;">1,784,370</td>
+	</tr><tr>
+		<td>&emsp;ลำพูน</td><td style="mso-number-format:0;">404,673</td><td style="mso-number-format:0;">405,268</td><td style="mso-number-format:0;">405,468</td><td style="mso-number-format:0;">406,385</td><td style="mso-number-format:0;">405,999</td><td style="mso-number-format:0;">405,918</td><td style="mso-number-format:0;">405,955</td><td style="mso-number-format:0;">405,075</td><td style="mso-number-format:0;">402,011</td>
+	</tr><tr>
+		<td>&emsp;ลำปาง</td><td style="mso-number-format:0;">756,811</td><td style="mso-number-format:0;">754,862</td><td style="mso-number-format:0;">753,013</td><td style="mso-number-format:0;">752,356</td><td style="mso-number-format:0;">748,850</td><td style="mso-number-format:0;">746,547</td><td style="mso-number-format:0;">742,883</td><td style="mso-number-format:0;">738,316</td><td style="mso-number-format:0;">728,964</td>
+	</tr><tr>
+		<td>&emsp;อุตรดิตถ์</td><td style="mso-number-format:0;">461,294</td><td style="mso-number-format:0;">460,995</td><td style="mso-number-format:0;">460,400</td><td style="mso-number-format:0;">459,768</td><td style="mso-number-format:0;">458,197</td><td style="mso-number-format:0;">457,092</td><td style="mso-number-format:0;">455,403</td><td style="mso-number-format:0;">453,103</td><td style="mso-number-format:0;">448,745</td>
+	</tr><tr>
+		<td>&emsp;แพร่</td><td style="mso-number-format:0;">457,607</td><td style="mso-number-format:0;">456,074</td><td style="mso-number-format:0;">454,083</td><td style="mso-number-format:0;">452,346</td><td style="mso-number-format:0;">449,810</td><td style="mso-number-format:0;">447,564</td><td style="mso-number-format:0;">445,090</td><td style="mso-number-format:0;">441,726</td><td style="mso-number-format:0;">437,350</td>
+	</tr><tr>
+		<td>&emsp;น่าน</td><td style="mso-number-format:0;">477,673</td><td style="mso-number-format:0;">477,912</td><td style="mso-number-format:0;">478,264</td><td style="mso-number-format:0;">479,518</td><td style="mso-number-format:0;">479,916</td><td style="mso-number-format:0;">479,838</td><td style="mso-number-format:0;">478,989</td><td style="mso-number-format:0;">478,227</td><td style="mso-number-format:0;">476,727</td>
+	</tr><tr>
+		<td>&emsp;พะเยา</td><td style="mso-number-format:0;">488,120</td><td style="mso-number-format:0;">486,744</td><td style="mso-number-format:0;">484,454</td><td style="mso-number-format:0;">482,645</td><td style="mso-number-format:0;">479,188</td><td style="mso-number-format:0;">477,100</td><td style="mso-number-format:0;">475,215</td><td style="mso-number-format:0;">472,356</td><td style="mso-number-format:0;">467,356</td>
+	</tr><tr>
+		<td>&emsp;เชียงราย</td><td style="mso-number-format:0;">1,200,423</td><td style="mso-number-format:0;">1,204,660</td><td style="mso-number-format:0;">1,207,699</td><td style="mso-number-format:0;">1,277,950</td><td style="mso-number-format:0;">1,282,544</td><td style="mso-number-format:0;">1,287,615</td><td style="mso-number-format:0;">1,292,130</td><td style="mso-number-format:0;">1,298,304</td><td style="mso-number-format:0;">1,295,026</td>
+	</tr><tr>
+		<td>&emsp;แม่ฮ่องสอน</td><td style="mso-number-format:0;">244,356</td><td style="mso-number-format:0;">246,549</td><td style="mso-number-format:0;">248,178</td><td style="mso-number-format:0;">273,764</td><td style="mso-number-format:0;">275,884</td><td style="mso-number-format:0;">279,088</td><td style="mso-number-format:0;">282,566</td><td style="mso-number-format:0;">284,138</td><td style="mso-number-format:0;">284,549</td>
+	</tr><tr>
+		<td>&emsp;นครสวรรค์</td><td style="mso-number-format:0;">1,073,347</td><td style="mso-number-format:0;">1,073,142</td><td style="mso-number-format:0;">1,072,756</td><td style="mso-number-format:0;">1,071,942</td><td style="mso-number-format:0;">1,066,455</td><td style="mso-number-format:0;">1,065,334</td><td style="mso-number-format:0;">1,063,964</td><td style="mso-number-format:0;">1,059,887</td><td style="mso-number-format:0;">1,040,308</td>
+	</tr><tr>
+		<td>&emsp;อุทัยธานี</td><td style="mso-number-format:0;">328,950</td><td style="mso-number-format:0;">329,536</td><td style="mso-number-format:0;">330,179</td><td style="mso-number-format:0;">330,906</td><td style="mso-number-format:0;">330,299</td><td style="mso-number-format:0;">329,942</td><td style="mso-number-format:0;">329,433</td><td style="mso-number-format:0;">328,618</td><td style="mso-number-format:0;">325,868</td>
+	</tr><tr>
+		<td>&emsp;กำแพงเพชร</td><td style="mso-number-format:0;">727,555</td><td style="mso-number-format:0;">728,631</td><td style="mso-number-format:0;">729,522</td><td style="mso-number-format:0;">730,158</td><td style="mso-number-format:0;">729,542</td><td style="mso-number-format:0;">729,133</td><td style="mso-number-format:0;">727,807</td><td style="mso-number-format:0;">725,867</td><td style="mso-number-format:0;">714,118</td>
+	</tr><tr>
+		<td>&emsp;ตาก</td><td style="mso-number-format:0;">526,045</td><td style="mso-number-format:0;">532,353</td><td style="mso-number-format:0;">539,553</td><td style="mso-number-format:0;">618,382</td><td style="mso-number-format:0;">631,965</td><td style="mso-number-format:0;">644,267</td><td style="mso-number-format:0;">654,676</td><td style="mso-number-format:0;">665,620</td><td style="mso-number-format:0;">670,265</td>
+	</tr><tr>
+		<td>&emsp;สุโขทัย</td><td style="mso-number-format:0;">602,601</td><td style="mso-number-format:0;">602,713</td><td style="mso-number-format:0;">602,460</td><td style="mso-number-format:0;">601,712</td><td style="mso-number-format:0;">600,231</td><td style="mso-number-format:0;">599,319</td><td style="mso-number-format:0;">597,257</td><td style="mso-number-format:0;">595,072</td><td style="mso-number-format:0;">587,883</td>
+	</tr><tr>
+		<td>&emsp;พิษณุโลก</td><td style="mso-number-format:0;">854,372</td><td style="mso-number-format:0;">856,376</td><td style="mso-number-format:0;">858,988</td><td style="mso-number-format:0;">863,404</td><td style="mso-number-format:0;">865,759</td><td style="mso-number-format:0;">865,368</td><td style="mso-number-format:0;">866,891</td><td style="mso-number-format:0;">865,247</td><td style="mso-number-format:0;">849,481</td>
+	</tr><tr>
+		<td>&emsp;พิจิตร</td><td style="mso-number-format:0;">549,395</td><td style="mso-number-format:0;">548,855</td><td style="mso-number-format:0;">547,543</td><td style="mso-number-format:0;">545,957</td><td style="mso-number-format:0;">543,482</td><td style="mso-number-format:0;">541,868</td><td style="mso-number-format:0;">539,374</td><td style="mso-number-format:0;">536,311</td><td style="mso-number-format:0;">532,310</td>
+	</tr><tr>
+		<td>&emsp;เพชรบูรณ์</td><td style="mso-number-format:0;">993,702</td><td style="mso-number-format:0;">994,397</td><td style="mso-number-format:0;">995,807</td><td style="mso-number-format:0;">996,986</td><td style="mso-number-format:0;">995,223</td><td style="mso-number-format:0;">995,331</td><td style="mso-number-format:0;">994,540</td><td style="mso-number-format:0;">992,451</td><td style="mso-number-format:0;">981,940</td>
+	</tr><tr>
+		<td rowspan="21">ภาคตะวันออกเฉียงเหนือ</td><td style="font-weight:bold;">ภาคตะวันออกเฉียงเหนือ</td><td style="mso-number-format:0;">21,697,488</td><td style="mso-number-format:0;">21,775,407</td><td style="mso-number-format:0;">21,845,254</td><td style="mso-number-format:0;">21,916,034</td><td style="mso-number-format:0;">21,945,392</td><td style="mso-number-format:0;">21,989,477</td><td style="mso-number-format:0;">22,015,239</td><td style="mso-number-format:0;">22,014,248</td><td style="mso-number-format:0;">21,848,228</td>
+	</tr><tr>
+		<td>&emsp;นครราชสีมา</td><td style="mso-number-format:0;">2,601,167</td><td style="mso-number-format:0;">2,610,164</td><td style="mso-number-format:0;">2,620,517</td><td style="mso-number-format:0;">2,628,818</td><td style="mso-number-format:0;">2,631,435</td><td style="mso-number-format:0;">2,639,226</td><td style="mso-number-format:0;">2,646,401</td><td style="mso-number-format:0;">2,648,927</td><td style="mso-number-format:0;">2,633,207</td>
+	</tr><tr>
+		<td>&emsp;บุรีรัมย์</td><td style="mso-number-format:0;">1,566,740</td><td style="mso-number-format:0;">1,573,438</td><td style="mso-number-format:0;">1,579,248</td><td style="mso-number-format:0;">1,584,661</td><td style="mso-number-format:0;">1,587,897</td><td style="mso-number-format:0;">1,591,905</td><td style="mso-number-format:0;">1,594,850</td><td style="mso-number-format:0;">1,595,747</td><td style="mso-number-format:0;">1,581,184</td>
+	</tr><tr>
+		<td>&emsp;สุรินทร์</td><td style="mso-number-format:0;">1,386,277</td><td style="mso-number-format:0;">1,388,194</td><td style="mso-number-format:0;">1,391,636</td><td style="mso-number-format:0;">1,395,024</td><td style="mso-number-format:0;">1,395,567</td><td style="mso-number-format:0;">1,397,180</td><td style="mso-number-format:0;">1,397,857</td><td style="mso-number-format:0;">1,396,831</td><td style="mso-number-format:0;">1,378,221</td>
+	</tr><tr>
+		<td>&emsp;ศรีสะเกษ</td><td style="mso-number-format:0;">1,458,370</td><td style="mso-number-format:0;">1,462,028</td><td style="mso-number-format:0;">1,465,213</td><td style="mso-number-format:0;">1,468,798</td><td style="mso-number-format:0;">1,470,341</td><td style="mso-number-format:0;">1,472,031</td><td style="mso-number-format:0;">1,473,011</td><td style="mso-number-format:0;">1,472,859</td><td style="mso-number-format:0;">1,458,580</td>
+	</tr><tr>
+		<td>&emsp;อุบลราชธานี</td><td style="mso-number-format:0;">1,826,920</td><td style="mso-number-format:0;">1,836,523</td><td style="mso-number-format:0;">1,844,669</td><td style="mso-number-format:0;">1,857,429</td><td style="mso-number-format:0;">1,862,965</td><td style="mso-number-format:0;">1,869,633</td><td style="mso-number-format:0;">1,874,548</td><td style="mso-number-format:0;">1,878,146</td><td style="mso-number-format:0;">1,866,697</td>
+	</tr><tr>
+		<td>&emsp;ยโสธร</td><td style="mso-number-format:0;">540,267</td><td style="mso-number-format:0;">540,383</td><td style="mso-number-format:0;">540,211</td><td style="mso-number-format:0;">540,182</td><td style="mso-number-format:0;">539,815</td><td style="mso-number-format:0;">539,542</td><td style="mso-number-format:0;">538,729</td><td style="mso-number-format:0;">537,299</td><td style="mso-number-format:0;">534,500</td>
+	</tr><tr>
+		<td>&emsp;ชัยภูมิ</td><td style="mso-number-format:0;">1,133,034</td><td style="mso-number-format:0;">1,135,723</td><td style="mso-number-format:0;">1,137,049</td><td style="mso-number-format:0;">1,138,252</td><td style="mso-number-format:0;">1,138,199</td><td style="mso-number-format:0;">1,139,356</td><td style="mso-number-format:0;">1,138,777</td><td style="mso-number-format:0;">1,137,357</td><td style="mso-number-format:0;">1,124,924</td>
+	</tr><tr>
+		<td>&emsp;อำนาจเจริญ</td><td style="mso-number-format:0;">373,494</td><td style="mso-number-format:0;">374,698</td><td style="mso-number-format:0;">375,380</td><td style="mso-number-format:0;">376,382</td><td style="mso-number-format:0;">377,120</td><td style="mso-number-format:0;">378,107</td><td style="mso-number-format:0;">378,621</td><td style="mso-number-format:0;">378,438</td><td style="mso-number-format:0;">376,195</td>
+	</tr><tr>
+		<td>&emsp;บึงกาฬ</td><td style="mso-number-format:0;">412,613</td><td style="mso-number-format:0;">416,236</td><td style="mso-number-format:0;">418,566</td><td style="mso-number-format:0;">420,647</td><td style="mso-number-format:0;">421,625</td><td style="mso-number-format:0;">423,032</td><td style="mso-number-format:0;">423,940</td><td style="mso-number-format:0;">424,091</td><td style="mso-number-format:0;">422,042</td>
+	</tr><tr>
+		<td>&emsp;หนองบัวลำภู</td><td style="mso-number-format:0;">505,071</td><td style="mso-number-format:0;">507,137</td><td style="mso-number-format:0;">508,864</td><td style="mso-number-format:0;">510,074</td><td style="mso-number-format:0;">510,734</td><td style="mso-number-format:0;">511,641</td><td style="mso-number-format:0;">512,117</td><td style="mso-number-format:0;">512,780</td><td style="mso-number-format:0;">509,470</td>
+	</tr><tr>
+		<td>&emsp;ขอนแก่น</td><td style="mso-number-format:0;">1,774,816</td><td style="mso-number-format:0;">1,781,655</td><td style="mso-number-format:0;">1,790,049</td><td style="mso-number-format:0;">1,798,014</td><td style="mso-number-format:0;">1,801,753</td><td style="mso-number-format:0;">1,805,910</td><td style="mso-number-format:0;">1,805,895</td><td style="mso-number-format:0;">1,802,872</td><td style="mso-number-format:0;">1,794,531</td>
+	</tr><tr>
+		<td>&emsp;อุดรธานี</td><td style="mso-number-format:0;">1,557,298</td><td style="mso-number-format:0;">1,563,964</td><td style="mso-number-format:0;">1,570,300</td><td style="mso-number-format:0;">1,575,152</td><td style="mso-number-format:0;">1,578,783</td><td style="mso-number-format:0;">1,583,092</td><td style="mso-number-format:0;">1,586,666</td><td style="mso-number-format:0;">1,586,646</td><td style="mso-number-format:0;">1,567,983</td>
+	</tr><tr>
+		<td>&emsp;เลย</td><td style="mso-number-format:0;">629,787</td><td style="mso-number-format:0;">632,205</td><td style="mso-number-format:0;">634,513</td><td style="mso-number-format:0;">638,819</td><td style="mso-number-format:0;">639,801</td><td style="mso-number-format:0;">641,666</td><td style="mso-number-format:0;">642,773</td><td style="mso-number-format:0;">642,950</td><td style="mso-number-format:0;">638,736</td>
+	</tr><tr>
+		<td>&emsp;หนองคาย</td><td style="mso-number-format:0;">512,439</td><td style="mso-number-format:0;">514,943</td><td style="mso-number-format:0;">517,260</td><td style="mso-number-format:0;">519,580</td><td style="mso-number-format:0;">520,363</td><td style="mso-number-format:0;">521,886</td><td style="mso-number-format:0;">522,103</td><td style="mso-number-format:0;">522,311</td><td style="mso-number-format:0;">517,435</td>
+	</tr><tr>
+		<td>&emsp;มหาสารคาม</td><td style="mso-number-format:0;">945,149</td><td style="mso-number-format:0;">955,644</td><td style="mso-number-format:0;">960,588</td><td style="mso-number-format:0;">964,596</td><td style="mso-number-format:0;">963,484</td><td style="mso-number-format:0;">963,072</td><td style="mso-number-format:0;">963,047</td><td style="mso-number-format:0;">962,665</td><td style="mso-number-format:0;">953,660</td>
+	</tr><tr>
+		<td>&emsp;ร้อยเอ็ด</td><td style="mso-number-format:0;">1,308,570</td><td style="mso-number-format:0;">1,308,958</td><td style="mso-number-format:0;">1,308,318</td><td style="mso-number-format:0;">1,308,166</td><td style="mso-number-format:0;">1,307,982</td><td style="mso-number-format:0;">1,307,911</td><td style="mso-number-format:0;">1,307,208</td><td style="mso-number-format:0;">1,305,211</td><td style="mso-number-format:0;">1,298,640</td>
+	</tr><tr>
+		<td>&emsp;กาฬสินธุ์</td><td style="mso-number-format:0;">985,084</td><td style="mso-number-format:0;">984,030</td><td style="mso-number-format:0;">984,907</td><td style="mso-number-format:0;">985,203</td><td style="mso-number-format:0;">985,232</td><td style="mso-number-format:0;">986,005</td><td style="mso-number-format:0;">985,346</td><td style="mso-number-format:0;">983,418</td><td style="mso-number-format:0;">977,175</td>
+	</tr><tr>
+		<td>&emsp;สกลนคร</td><td style="mso-number-format:0;">1,129,174</td><td style="mso-number-format:0;">1,134,322</td><td style="mso-number-format:0;">1,138,609</td><td style="mso-number-format:0;">1,142,737</td><td style="mso-number-format:0;">1,145,949</td><td style="mso-number-format:0;">1,149,472</td><td style="mso-number-format:0;">1,152,282</td><td style="mso-number-format:0;">1,153,390</td><td style="mso-number-format:0;">1,146,936</td>
+	</tr><tr>
+		<td>&emsp;นครพนม</td><td style="mso-number-format:0;">708,350</td><td style="mso-number-format:0;">710,860</td><td style="mso-number-format:0;">713,341</td><td style="mso-number-format:0;">715,399</td><td style="mso-number-format:0;">716,873</td><td style="mso-number-format:0;">718,028</td><td style="mso-number-format:0;">718,786</td><td style="mso-number-format:0;">719,136</td><td style="mso-number-format:0;">717,201</td>
+	</tr><tr>
+		<td>&emsp;มุกดาหาร</td><td style="mso-number-format:0;">342,868</td><td style="mso-number-format:0;">344,302</td><td style="mso-number-format:0;">346,016</td><td style="mso-number-format:0;">348,101</td><td style="mso-number-format:0;">349,474</td><td style="mso-number-format:0;">350,782</td><td style="mso-number-format:0;">352,282</td><td style="mso-number-format:0;">353,174</td><td style="mso-number-format:0;">350,911</td>
+	</tr><tr>
+		<td rowspan="15">ภาคใต้</td><td style="font-weight:bold;">ภาคใต้</td><td style="mso-number-format:0;">9,060,189</td><td style="mso-number-format:0;">9,131,425</td><td style="mso-number-format:0;">9,208,504</td><td style="mso-number-format:0;">9,290,708</td><td style="mso-number-format:0;">9,341,162</td><td style="mso-number-format:0;">9,399,578</td><td style="mso-number-format:0;">9,454,193</td><td style="mso-number-format:0;">9,493,757</td><td style="mso-number-format:0;">9,467,901</td>
+	</tr><tr>
+		<td>&emsp;นครศรีธรรมราช</td><td style="mso-number-format:0;">1,534,887</td><td style="mso-number-format:0;">1,541,843</td><td style="mso-number-format:0;">1,548,028</td><td style="mso-number-format:0;">1,552,530</td><td style="mso-number-format:0;">1,554,432</td><td style="mso-number-format:0;">1,557,482</td><td style="mso-number-format:0;">1,560,433</td><td style="mso-number-format:0;">1,561,927</td><td style="mso-number-format:0;">1,550,721</td>
+	</tr><tr>
+		<td>&emsp;กระบี่</td><td style="mso-number-format:0;">444,967</td><td style="mso-number-format:0;">450,890</td><td style="mso-number-format:0;">456,811</td><td style="mso-number-format:0;">462,101</td><td style="mso-number-format:0;">465,931</td><td style="mso-number-format:0;">469,769</td><td style="mso-number-format:0;">473,738</td><td style="mso-number-format:0;">476,739</td><td style="mso-number-format:0;">477,770</td>
+	</tr><tr>
+		<td>&emsp;พังงา</td><td style="mso-number-format:0;">257,493</td><td style="mso-number-format:0;">259,420</td><td style="mso-number-format:0;">261,370</td><td style="mso-number-format:0;">264,074</td><td style="mso-number-format:0;">265,579</td><td style="mso-number-format:0;">267,491</td><td style="mso-number-format:0;">268,240</td><td style="mso-number-format:0;">268,788</td><td style="mso-number-format:0;">268,229</td>
+	</tr><tr>
+		<td>&emsp;ภูเก็ต</td><td style="mso-number-format:0;">360,905</td><td style="mso-number-format:0;">369,522</td><td style="mso-number-format:0;">378,364</td><td style="mso-number-format:0;">386,605</td><td style="mso-number-format:0;">394,169</td><td style="mso-number-format:0;">402,017</td><td style="mso-number-format:0;">410,211</td><td style="mso-number-format:0;">416,582</td><td style="mso-number-format:0;">414,471</td>
+	</tr><tr>
+		<td>&emsp;สุราษฎร์ธานี</td><td style="mso-number-format:0;">1,023,288</td><td style="mso-number-format:0;">1,031,812</td><td style="mso-number-format:0;">1,040,230</td><td style="mso-number-format:0;">1,046,772</td><td style="mso-number-format:0;">1,050,913</td><td style="mso-number-format:0;">1,057,581</td><td style="mso-number-format:0;">1,063,501</td><td style="mso-number-format:0;">1,068,010</td><td style="mso-number-format:0;">1,067,726</td>
+	</tr><tr>
+		<td>&emsp;ระนอง</td><td style="mso-number-format:0;">182,648</td><td style="mso-number-format:0;">174,776</td><td style="mso-number-format:0;">177,089</td><td style="mso-number-format:0;">187,536</td><td style="mso-number-format:0;">189,154</td><td style="mso-number-format:0;">190,399</td><td style="mso-number-format:0;">191,868</td><td style="mso-number-format:0;">193,370</td><td style="mso-number-format:0;">194,372</td>
+	</tr><tr>
+		<td>&emsp;ชุมพร</td><td style="mso-number-format:0;">495,310</td><td style="mso-number-format:0;">498,294</td><td style="mso-number-format:0;">500,575</td><td style="mso-number-format:0;">505,830</td><td style="mso-number-format:0;">507,604</td><td style="mso-number-format:0;">509,650</td><td style="mso-number-format:0;">510,963</td><td style="mso-number-format:0;">511,304</td><td style="mso-number-format:0;">509,208</td>
+	</tr><tr>
+		<td>&emsp;สงขลา</td><td style="mso-number-format:0;">1,378,574</td><td style="mso-number-format:0;">1,389,890</td><td style="mso-number-format:0;">1,401,303</td><td style="mso-number-format:0;">1,410,577</td><td style="mso-number-format:0;">1,417,440</td><td style="mso-number-format:0;">1,424,230</td><td style="mso-number-format:0;">1,432,628</td><td style="mso-number-format:0;">1,435,968</td><td style="mso-number-format:0;">1,428,609</td>
+	</tr><tr>
+		<td>&emsp;สตูล</td><td style="mso-number-format:0;">305,879</td><td style="mso-number-format:0;">309,793</td><td style="mso-number-format:0;">312,673</td><td style="mso-number-format:0;">315,923</td><td style="mso-number-format:0;">317,612</td><td style="mso-number-format:0;">319,700</td><td style="mso-number-format:0;">321,574</td><td style="mso-number-format:0;">323,586</td><td style="mso-number-format:0;">324,098</td>
+	</tr><tr>
+		<td>&emsp;ตรัง</td><td style="mso-number-format:0;">631,920</td><td style="mso-number-format:0;">636,043</td><td style="mso-number-format:0;">638,746</td><td style="mso-number-format:0;">640,793</td><td style="mso-number-format:0;">641,684</td><td style="mso-number-format:0;">643,072</td><td style="mso-number-format:0;">643,116</td><td style="mso-number-format:0;">643,164</td><td style="mso-number-format:0;">640,574</td>
+	</tr><tr>
+		<td>&emsp;พัทลุง</td><td style="mso-number-format:0;">514,492</td><td style="mso-number-format:0;">518,021</td><td style="mso-number-format:0;">520,419</td><td style="mso-number-format:0;">522,723</td><td style="mso-number-format:0;">523,723</td><td style="mso-number-format:0;">524,857</td><td style="mso-number-format:0;">525,044</td><td style="mso-number-format:0;">524,865</td><td style="mso-number-format:0;">523,077</td>
+	</tr><tr>
+		<td>&emsp;ปัตตานี</td><td style="mso-number-format:0;">671,615</td><td style="mso-number-format:0;">678,838</td><td style="mso-number-format:0;">686,186</td><td style="mso-number-format:0;">694,023</td><td style="mso-number-format:0;">700,961</td><td style="mso-number-format:0;">709,796</td><td style="mso-number-format:0;">718,077</td><td style="mso-number-format:0;">725,104</td><td style="mso-number-format:0;">726,015</td>
+	</tr><tr>
+		<td>&emsp;ยะลา</td><td style="mso-number-format:0;">500,814</td><td style="mso-number-format:0;">506,138</td><td style="mso-number-format:0;">511,911</td><td style="mso-number-format:0;">518,139</td><td style="mso-number-format:0;">522,279</td><td style="mso-number-format:0;">527,295</td><td style="mso-number-format:0;">532,326</td><td style="mso-number-format:0;">536,330</td><td style="mso-number-format:0;">538,602</td>
+	</tr><tr>
+		<td>&emsp;นราธิวาส</td><td style="mso-number-format:0;">757,397</td><td style="mso-number-format:0;">766,145</td><td style="mso-number-format:0;">774,799</td><td style="mso-number-format:0;">783,082</td><td style="mso-number-format:0;">789,681</td><td style="mso-number-format:0;">796,239</td><td style="mso-number-format:0;">802,474</td><td style="mso-number-format:0;">808,020</td><td style="mso-number-format:0;">804,429</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
