@@ -15,5 +15,7 @@ To run my project file I just run  Final.py file and select your python version 
 - some kernel like set index can run only one time if you run it more kenel will crash
 
 ## Data set (Need to dowload) 🤚
-But this project include file from directory u need to dowload in my github
+But this project include file from directory u need to dowload in
+[my repo](https://github.com/WTFPUn/UMAP-FInal-capstone-project)
+
 Thanks for watching!
